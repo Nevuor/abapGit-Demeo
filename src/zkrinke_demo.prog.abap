@@ -7,3 +7,4 @@ REPORT ZKRINKE_DEMO.
 
 
 WRITE 'HELLO'.
+WRITE 'Goodbye.'.
